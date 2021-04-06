@@ -1,0 +1,291 @@
+{
+  "iPad 1": {
+    "potrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPad 2": {
+    "potrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPad Mini": {
+    "potrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPad Air": {
+    "potrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2"
+    }
+  },
+  "iPad 3": {
+    "potrait": {
+      "min-width": "768px",
+      "max-width": "1024px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "768px",
+      "max-width": "1024px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "768px",
+      "max-width": "1024px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPad 4": {
+    "potrait": {
+      "min-width": "768px",
+      "max-width": "1024px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "768px",
+      "max-width": "1024px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "768px",
+      "max-width": "1024px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPad Pro 2016": {
+    "potrait": {
+      "min-width": "768px",
+      "max-width": "1024px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "768px",
+      "max-width": "1024px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "768px",
+      "max-width": "1024px",
+      "pixel-ratio": "2"
+    }
+  },
+  "iPad Pro 2017": {
+    "potrait": {
+      "min-width": "834px",
+      "max-width": "834px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "1112px",
+      "max-width": "1112px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "834px",
+      "max-width": "1112px",
+      "pixel-ratio": "2"
+    }
+  },
+  "iPad Pro 2020": {
+    "potrait": {
+      "min-width": "1024px",
+      "max-width": "1024px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "1366px",
+      "max-width": "1366px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "1024px",
+      "max-width": "1366px",
+      "pixel-ratio": "2"
+    }
+  },
+  "Galaxy Tab 2": {
+    "potrait": {
+      "max-width": "800px",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "max-width": "1280px",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "800px",
+      "max-width": "1280px"
+    }
+  },
+  "Galaxy Tab S": {
+    "potrait": {
+      "max-width": "800px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "max-width": "1280px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "800px",
+      "pixel-ratio": "2",
+      "max-width": "1280px"
+    }
+  },
+  "Nexus 7": {
+    "potrait": {
+      "device-width": "601px",
+      "device-height": "906px",
+      "max-pixel-ratio": "1.332",
+      "pixel-ratio": "1.331",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "601px",
+      "device-height": "906px",
+      "max-pixel-ratio": "1.332",
+      "pixel-ratio": "1.331",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "601px",
+      "device-height": "906px",
+      "max-pixel-ratio": "1.332",
+      "pixel-ratio": "1.331"
+    }
+  },
+  "Nexus 9": {
+    "potrait": {
+      "device-width": "1536px",
+      "device-height": "2048px",
+      "max-pixel-ratio": "1.332",
+      "pixel-ratio": "1.331",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "1536px",
+      "device-height": "2048px",
+      "max-pixel-ratio": "1.332",
+      "pixel-ratio": "1.331",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "1536px",
+      "device-height": "2048px",
+      "max-pixel-ratio": "1.332",
+      "pixel-ratio": "1.331"
+    }
+  },
+  "Kindle Fire HD 7": {
+    "potrait": {
+      "min-width": "800px",
+      "max-width": "1280px",
+      "pixel-ratio": "1.5",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "800px",
+      "max-width": "1280px",
+      "pixel-ratio": "1.5",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "800px",
+      "max-width": "1280px",
+      "pixel-ratio": "1.5"
+    }
+  },
+  "Kindle Fire HD 9": {
+    "potrait": {
+      "min-width": "1200px",
+      "max-width": "1600px",
+      "pixel-ratio": "1.5",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "1200px",
+      "max-width": "1600px",
+      "pixel-ratio": "1.5",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "1200px",
+      "max-width": "1600px",
+      "pixel-ratio": "1.5"
+    }
+  }
+}

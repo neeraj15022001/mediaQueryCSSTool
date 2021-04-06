@@ -1,0 +1,13 @@
+{
+  "Laptop Non-Retina": {
+    "min-width": "1200px",
+    "max-width": "1600px",
+    "pixel-ratio": "1"
+  },
+  "Laptop Retina": {
+    "min-width": "1200px",
+    "max-width": "1600px",
+    "pixel-ratio": "2",
+    "resolution" : "192dpi"
+  }
+}

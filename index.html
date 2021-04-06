@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Media Query Tool</title>
+    <meta name="title" content="Media Query Tool" />
+    <meta
+      name="description"
+      content="This tool will help you generate media query code snippets for different devices."
+    />
+    <meta name="keywords" content="media query, css, responsiveness" />
+    <meta name="robots" content="index, follow" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="language" content="English" />
+    <meta name="author" content="Neeraj Gupta" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <nav class="customNavbar">
+      <button class="collapse-button">
+        <span><img src="./menu.svg" alt="arrow" width="30px" /></span>
+      </button>
+      <p>Media Query Tool</p>
+    </nav>
+
+    <div class="container-fluid p-0">
+      <div class="sidebar" id="sidebar">
+        <div class="accordion accordion-flush" id="accordionExample">
+          <div class="accordion-item border-bottom">
+            <h2 class="accordion-header" id="headingOne">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#collapseOne"
+                aria-expanded="true"
+                aria-controls="collapseOne"
+              >
+                Phones
+              </button>
+            </h2>
+            <div
+              id="collapseOne"
+              class="accordion-collapse collapse"
+              aria-labelledby="headingOne"
+              data-bs-parent="#accordionExample"
+            >
+              <div class="accordion-body w-100 p-0">
+                <ul class="deviceList list w-100 p-0"></ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Tablets -->
+        <div class="accordion accordion-flush">
+          <div class="accordion-item accordion-flush border-bottom">
+            <h2 class="accordion-header" id="headingTwo">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#collapseTwo"
+                aria-expanded="true"
+                aria-controls="collapseTwo"
+              >
+                Tablets
+              </button>
+            </h2>
+            <div
+              id="collapseTwo"
+              class="accordion-collapse collapse"
+              aria-labelledby="headingTwo"
+              data-bs-parent="#accordionExample"
+            >
+              <div class="accordion-body w-100 p-0">
+                <ul class="deviceListTablet list w-100 p-0"></ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Laptops -->
+        <div class="accordion accordion-flush">
+          <div class="accordion-item accordion-flush border-bottom">
+            <h2 class="accordion-header" id="headingThree">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#collapseThree"
+                aria-expanded="true"
+                aria-controls="collapseThree"
+              >
+                Laptops
+              </button>
+            </h2>
+            <div
+              id="collapseThree"
+              class="accordion-collapse collapse"
+              aria-labelledby="headingThree"
+              data-bs-parent="#accordionExample"
+            >
+              <div class="accordion-body w-100 p-0">
+                <ul class="deviceListLaptop list w-100 p-0"></ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Wearables -->
+        <div class="accordion accordion-flush">
+          <div class="accordion-item accordion-flush border-bottom">
+            <h2 class="accordion-header" id="headingFour">
+              <button
+                class="accordion-button collapsed"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#collapseFour"
+                aria-expanded="true"
+                aria-controls="collapseFour"
+              >
+                Wearables
+              </button>
+            </h2>
+            <div
+              id="collapseFour"
+              class="accordion-collapse collapse"
+              aria-labelledby="headingFour"
+              data-bs-parent="#accordionExample"
+            >
+              <div class="accordion-body w-100 p-0">
+                <ul class="deviceListWearables list w-100 p-0"></ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="content">
+        <textarea name="code" id="codeSnippet">
+Select Device to get Media Query Rules</textarea
+        >
+        <button class="copyButton">Copy</button>
+      </div>
+    </div>
+    <script src="https://unpkg.com/prettier@2.2.1/standalone.js"></script>
+    <script src="https://unpkg.com/prettier@2.2.1/parser-postcss.js"></script>
+
+    <script src="./main.js"></script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"
+      integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js"
+      integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

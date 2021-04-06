@@ -1,0 +1,466 @@
+{
+  "iPhone 4": {
+    "potrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPhone 4s": {
+    "potrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "320px",
+      "max-width": "480px",
+      "pixel-ratio": "2"
+    }
+  },
+  "iPhone 5": {
+    "potrait": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPhone 5s": {
+    "potrait": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPhone 5C": {
+    "potrait": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPhone SE": {
+    "potrait": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "320px",
+      "max-width": "568px",
+      "pixel-ratio": "2"
+    }
+  },
+  "iPhone 6": {
+    "potrait": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPhone 6s": {
+    "potrait": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPhone 7": {
+    "potrait": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2"
+    }
+  },
+
+  "iPhone 8": {
+    "potrait": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "375px",
+      "max-width": "667px",
+      "pixel-ratio": "2"
+    }
+  },
+  "iPhone X": {
+    "potrait": {
+      "min-width": "375px",
+      "max-width": "812px",
+      "pixel-ratio": "3",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "min-width": "375px",
+      "max-width": "812px",
+      "pixel-ratio": "3",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "min-width": "375px",
+      "max-width": "812px",
+      "pixel-ratio": "3"
+    }
+  },
+  "Galaxy S3": {
+    "potrait": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "2"
+    }
+  },
+  "Galaxy S4": {
+    "potrait": {
+      "device-width": "320px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "320px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "320px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3"
+    }
+  },
+
+  "Galaxy S5": {
+    "potrait": {
+      "device-width": "320px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "320px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "320px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3"
+    }
+  },
+
+  "Note 3": {
+    "potrait": {
+      "device-width": "320px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "320px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "320px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3"
+    }
+  },
+
+  "Galaxy S6": {
+    "potrait": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "4",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "4",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "4"
+    }
+  },
+  "HTC One": {
+    "potrait": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3"
+    }
+  },
+  "Google Pixel": {
+    "potrait": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "3"
+    }
+  },
+  "Google Pixel XL": {
+    "potrait": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "4",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "4",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "360px",
+      "device-height": "640px",
+      "device-pixel-ratio": "4"
+    }
+  },
+  "Nexus 4": {
+    "potrait": {
+      "device-width": "384px",
+      "device-height": "592px",
+      "device-pixel-ratio": "2",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "384px",
+      "device-height": "592px",
+      "device-pixel-ratio": "2",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "384px",
+      "device-height": "592px",
+      "device-pixel-ratio": "2"
+    }
+  },
+  "Nexus 5": {
+    "potrait": {
+      "device-width": "360px",
+      "device-height": "592px",
+      "device-pixel-ratio": "3",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "360px",
+      "device-height": "592px",
+      "device-pixel-ratio": "3",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "360px",
+      "device-height": "592px",
+      "device-pixel-ratio": "3"
+    }
+  },
+  "Nexus 6": {
+    "potrait": {
+      "device-width": "360px",
+      "device-height": "592px",
+      "device-pixel-ratio": "4",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "360px",
+      "device-height": "592px",
+      "device-pixel-ratio": "4",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "360px",
+      "device-height": "592px",
+      "device-pixel-ratio": "4"
+    }
+  },
+
+  "Nexus 6P": {
+    "potrait": {
+      "device-width": "360px",
+      "device-height": "592px",
+      "device-pixel-ratio": "4",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "360px",
+      "device-height": "592px",
+      "device-pixel-ratio": "4",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "360px",
+      "device-height": "592px",
+      "device-pixel-ratio": "4"
+    }
+  },
+  "Windows Phone": {
+    "potrait": {
+      "device-width": "480px",
+      "device-height": "800px",
+      "orientation": "potrait"
+    },
+    "landscape": {
+      "device-width": "480px",
+      "device-height": "800px",
+      "orientation": "landscape"
+    },
+    "landscapePotrait": {
+      "device-width": "480px",
+      "device-height": "800px"
+    }
+  }
+}
