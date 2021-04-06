@@ -1,9 +1,8 @@
 
-registerServiceWorker();
 function registerServiceWorker() {
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker
-      .register("/sw.js")
+      .register("./service-worker.js")
       .then((reg) => {
         console.log("Registration successful", reg);
       })
@@ -14,6 +13,7 @@ function registerServiceWorker() {
     console.warn("Service Worker is not supported");
   }
 }
+registerServiceWorker();
 
 $(".copyButton").click(() => {
     $("#codeSnippet").select();
