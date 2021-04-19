@@ -16,8 +16,10 @@ function registerServiceWorker() {
 registerServiceWorker();
 
 $(".copyButton").click(() => {
+    $("#codeSnippet").removeAttr("disabled");
     $("#codeSnippet").select();
     document.execCommand("copy");
+    $("#codeSnippet").attr("disabled", "true");
 })
 
 fetch("./deviceData.json")
